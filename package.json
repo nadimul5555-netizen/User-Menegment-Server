@@ -1,0 +1,16 @@
+{
+  "name": "user-menegment-server",
+  "version": "1.0.0",
+  "description": "This is second server user menegment ",
+  "keywords": [],
+  "license": "ISC",
+  "author": "Nadimul Islam",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
